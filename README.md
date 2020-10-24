@@ -1,5 +1,5 @@
 # coc
-Count OCcurrences and highlight them
+**C**ount **OC**currences and highlight them
 
 From source
 
